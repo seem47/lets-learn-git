@@ -1,4 +1,4 @@
 a=5
 b=10
 c=a+b
-print(c)
+print("the sum is", c)
