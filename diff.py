@@ -1,4 +1,5 @@
 a=6
 b=7
-c=a*b
-print("answer is",c)
+c=6
+z=a*b*c
+print("answer is",z)
